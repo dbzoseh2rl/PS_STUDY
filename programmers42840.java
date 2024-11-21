@@ -36,13 +36,8 @@ public class Main {
     public static void main(String[] args) {
         Solution solution = new Solution();
 
-        // 예제 입력
         int[] answers = {1, 3, 2, 4, 2};
-
-        // 메서드 실행
         int[] result = solution.solution(answers);
-
-        // 결과 출력
-        System.out.println("결과: " + Arrays.toString(result));
+        System.out.println(Arrays.toString(result));
     }
 }
