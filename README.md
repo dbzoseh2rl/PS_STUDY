@@ -2,14 +2,14 @@
 **코딩 테스트, 알고리즘**
 
 ## **👥 멤버**  
-| [이도경](https://github.com/dbzoseh2rl) | [최혜원](https://github.com/choihywon) | [김진규](https://github.com/km1031kim) | [박성근](https://github.com/p-seonggeun) |  
-| :---: | :---: | :---: | :---: |  
-| <img src="https://avatars.githubusercontent.com/u/91397068?v=4" alt="이도경" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/144045451?v=4" alt="최혜원" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/143667221?v=4" alt="김진규" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/143667221?v=4" alt="박성근" width="150" height="150"/> |  
+| [이도경](https://github.com/dbzoseh2rl) | [최혜원](https://github.com/choihywon) | [김진규](https://github.com/km1031kim) | [박성근](https://github.com/p-seonggeun) | [임진묵](https://github.com/Mukjin) | 
+| :---: | :---: | :---: | :---: | :---: |  
+| <img src="https://avatars.githubusercontent.com/u/91397068?v=4" alt="이도경" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/144045451?v=4" alt="최혜원" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/143667221?v=4" alt="김진규" width="150" height="150"/> | <img src="https://avatars.githubusercontent.com/u/143667221?v=4" alt="박성근" width="150" height="150"/> |  <img src="https://avatars.githubusercontent.com/u/127205198?v=4" alt="임진묵" width="150" height="150"/> |  
 
 
 ---
 
-## **🌟 진행방향**  
+## **🌟진행방향**  
 
 1. **언어 통일**  
    - 스터디에서 모든 문제는 Java로 풀어 통일성을 유지합니다.  
